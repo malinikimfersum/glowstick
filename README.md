@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Add plot_images conf_thresh parameter (#8446)
