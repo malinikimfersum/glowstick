@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Add docs guide terminal images (#8819)
