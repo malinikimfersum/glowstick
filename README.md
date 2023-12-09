@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Use pathlib in DOTA ops (#7552)
