@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Resize angle, count, and stage on keypoint number change (#7598)
